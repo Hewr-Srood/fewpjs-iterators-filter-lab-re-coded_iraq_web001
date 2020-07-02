@@ -33,4 +33,3 @@ const drivers1 = [
 function matchName(drivers, string) {
   return drivers.filter((driver) => driver.name === string);
 }
-
